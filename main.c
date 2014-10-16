@@ -3,7 +3,7 @@
 int main()
 {
     int N,i,j, ndiv,ndiv2, nhiper;
-    while(scanf("%d", &N)!=EOF)
+    while(scanf("% d", &N)!=EOF)
     {
     	nhiper=0;
     	for(i=2; i<=N; i++)
